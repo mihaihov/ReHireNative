@@ -1,3 +1,4 @@
+- React Native applicaiton.
 - Makes use of the API provided by RapidAPI in order to retrieve available jobs and revlevant information about it.
 ![Photo1](https://github.com/mihaihov/ReHireNative/assets/102878955/0a90768e-9cf2-4072-9b6b-f66a22c6743d)
 
